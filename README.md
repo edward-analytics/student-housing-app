@@ -1,21 +1,32 @@
-# Student Housing Finder & Rent Analysis App
+# 🏠 Student Housing Finder & Rent Analysis App
 
 ## Overview
-A Python-based web application that helps students find affordable housing and analyze rent patterns near campus.
+A Python-based web application that helps students find affordable housing options and analyze rent patterns near campus.
+
+This app is designed for students looking for quick, simple housing insights without complex platforms.
+
+---
 
 ## Features
 - Browse housing listings
-- Filter by city and rent
-- Add new housing listings
-- Persistent data storage (CSV)
-- Rent analysis using data visualization
+- Filter by city
+- Filter by maximum rent
+- View results in a clean interactive table
+- Simple and beginner-friendly interface
 
-## Tools & Technologies
-- Python
-- Streamlit
-- Pandas
-- Seaborn
-- Matplotlib
+---
 
-## Motivation
-This project was built to practice data analysis, visualization, and app development using Python while solving a real student problem.
+## Tech Stack
+- **Python**
+- **Streamlit**
+- **Pandas**
+- **Seaborn**
+- **Matplotlib**
+
+---
+
+## How to Run Locally
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install streamlit pandas seaborn matplotlib
